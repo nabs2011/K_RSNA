@@ -37,7 +37,7 @@ $$IoU(A,B) = \frac{A \cap B}{A \cup B}$$
 
 This mearsures the extent of overlap between the ground-truth bounding box and the predicted bounding box as a proportion of the total area covered by the two bounding boxes.
 
-<img src = 'intersection_over_union.png'>
+<img src='intersection_over_union.png'>
 
 #### An example
 
